@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PlanTrip/static/css/main.67e086e3.css",
+    "main.js": "/PlanTrip/static/js/main.58cbf6ea.js",
+    "static/js/787.314474ed.chunk.js": "/PlanTrip/static/js/787.314474ed.chunk.js",
+    "static/media/img4.jpg": "/PlanTrip/static/media/img4.e49c65f577b6c6c34162.jpg",
+    "static/media/img3.jpg": "/PlanTrip/static/media/img3.7980d886d5b07e675dbc.jpg",
+    "static/media/img6.jpg": "/PlanTrip/static/media/img6.df59233830d53d7d483d.jpg",
+    "static/media/bg1.jpg": "/PlanTrip/static/media/bg1.d0d16c145619e21a6a11.jpg",
+    "static/media/bacalar.jpg": "/PlanTrip/static/media/bacalar.4d03536846b03c6cae15.jpg",
+    "static/media/img1.jpg": "/PlanTrip/static/media/img1.e80ef69f64091fa25f1e.jpg",
+    "static/media/img5.jpg": "/PlanTrip/static/media/img5.49ae8d56e75623767f09.jpg",
+    "static/media/img2.jpg": "/PlanTrip/static/media/img2.db1c4627e18b862be188.jpg",
+    "static/media/cuetzalan.jpg": "/PlanTrip/static/media/cuetzalan.a93bc60a1bf448cf669e.jpg",
+    "static/media/cuetzalan1.jpg": "/PlanTrip/static/media/cuetzalan1.b69ec88912d517170684.jpg",
+    "static/media/img7.jpg": "/PlanTrip/static/media/img7.fc7961bf94d43dfa6cb8.jpg",
+    "static/media/mazunte.jpg": "/PlanTrip/static/media/mazunte.5a1ccd3b0a5bbccd21a1.jpg",
+    "index.html": "/PlanTrip/index.html",
+    "main.67e086e3.css.map": "/PlanTrip/static/css/main.67e086e3.css.map",
+    "main.58cbf6ea.js.map": "/PlanTrip/static/js/main.58cbf6ea.js.map",
+    "787.314474ed.chunk.js.map": "/PlanTrip/static/js/787.314474ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67e086e3.css",
+    "static/js/main.58cbf6ea.js"
+  ]
+}
